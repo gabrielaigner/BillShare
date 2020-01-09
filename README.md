@@ -11,6 +11,10 @@ Eine Klassenbibliothek für die Schnittstellen anlegen. Der Projektname wird wie 
 Eine Klassenbibliothek für die Geschäftslogic. In diesem Projekt werden alle GEschäftsprozesse gesammelt. Projektname wird wie folgt definiert: [Domainname].Logic
 ### Schritt 5
 Erstellen einer Konsolenanwendung zum Testen der Struktur. Projekt wird wie folt definiert: [Domainname].ConApp
-**Hinnweis**
+**Hinnweis** Im weiteren Ausbau werden noch mehr Projekte hinzugefügt (zB.: Rest-Service)!
 ### Schritt 6
 Abhängigkeiten definieren.
+
+## Schnittstellen definieren
+
+![Schnittstellen](Contracts.png)
